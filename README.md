@@ -37,10 +37,6 @@
   <a href="mailto:mdemtiazahmed11@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-1E1F2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br>
-
-<br>
-
 <div align="center">
   <h2>✦ Stack ✦</h2>
 </div>
@@ -78,10 +74,6 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square&logo=xfce&logoColor=FFFFFF" />
 </p>
-
-<br>
-
-<br>
 
 <div align="center">
   <h2>✦ Metrics ✦</h2>

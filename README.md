@@ -21,6 +21,7 @@
   </table>
 </div>
 
+
 <div align="center">
   <p style="font-style: italic; color: #808080; letter-spacing: 0.5px;">
   “Always building. Always improving.”
@@ -75,12 +76,6 @@
 
 <div align="center">
   <h2>✦ Metrics ✦</h2>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emtiazriad&show_icons=true&hide_title=true&count_private=false&include_all_commits=false&theme=transparent&hide_border=true&icon_color=3FB950&text_color=CCCCCC&title_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtiazriad&layout=compact&hide_title=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=FFFFFF" width="38%" />
 </div>
 
 

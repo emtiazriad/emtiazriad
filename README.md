@@ -1,4 +1,11 @@
+<p align="center">
+  <a href="https://bsky.app/profile/infyra"><img src="https://img.shields.io/badge/-BLUESKY-1E1F2C?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="https://x.com/infyra0_0"><img src="https://img.shields.io/badge/-X-1E1F2C?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@infyra"><img src="https://img.shields.io/badge/-MEDIUM-1E1F2C?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:mdemtiazahmed11@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-1E1F2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 <h1 align="center">EMTIAZ AHMED</h1>
+
 <h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Web Dev" width="32" height="32"/> Web Developer
   <img src="https://cdn.simpleicons.org/bugcrowd" alt="Bug Bounty" width="32" height="32"/> Bug Bounty Hunter
@@ -55,24 +62,30 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square&logo=xfce&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Arch-1A1A1A?style=flat-square&logo=archlinux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Wireshark-0067A3?style=flat-square&logo=wireshark&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-SECURITY-blue?style=flat-square&logo=owasp&logoColor=FFFFFF" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/SQLmap-1A1A1A?style=flat-square&logo=sql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CTF-Competitor-FF6F61?style=flat-square&logo=ctf&logoColor=FFFFFF" />
+
 </p>
 
-<h3 align="center">✦ Connect ✦</h3>
+<!-- <h3 align="center">✦ Connect ✦</h3> -->
 
-<p align="center">
-  <a href="https://bsky.app/profile/infyra"><img src="https://img.shields.io/badge/-BLUESKY-1E1F2C?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-  <a href="https://x.com/infyra0_0"><img src="https://img.shields.io/badge/-X-1E1F2C?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@infyra"><img src="https://img.shields.io/badge/-MEDIUM-1E1F2C?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:mdemtiazahmed11@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-1E1F2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 <!-- <h3 align="center">✦ Metrics ✦</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emtiazriad&theme=transparent&hide_border=true&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=808080" width="70%" />
-</div>
+</div>-->
 
-<h3 align="center">✦ Support ✦</h3> -->
+<h3 align="center">✦ Support ✦</h3> 
 
 <div align="center">
   <p style="color: #808080; font-size: 0.9rem;">If my work provides value, your support is appreciated.</p>

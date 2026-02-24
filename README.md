@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=emtiazriad&icon=0&color=5" alt="Profile Views" style="opacity: 0.7;"/>
-</div>
-
----
-
 <br>
 
 <div align="center">
@@ -20,8 +14,6 @@
 </div>
 
 <br>
-
----
 
 <br>
 
@@ -52,8 +44,6 @@
 
 <br>
 
----
-
 <br>
 
 <div align="center">
@@ -71,8 +61,6 @@
 
 <br>
 
----
-
 <br>
 
 <div align="center">
@@ -81,7 +69,6 @@
 
 <br>
 
-### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
@@ -93,7 +80,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF" />
 </p>
 
-### Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=FFFFFF" />
@@ -101,7 +87,6 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=FFFFFF" />
 </p>
 
-### Infrastructure & Tooling
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF" />
@@ -117,8 +102,6 @@
 </p>
 
 <br>
-
----
 
 <br>
 
@@ -141,8 +124,6 @@
 
 <br>
 
----
-
 <br>
 
 <div align="center">
@@ -151,13 +132,11 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emtiazriad&theme=dark_lover&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
-<br>
-
----
+<br> -->
 
 <br>
 

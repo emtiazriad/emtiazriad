@@ -21,24 +21,14 @@
   </table>
 </div>
 
-<br>
-<br>
-
 <div align="center">
   <p style="font-style: italic; color: #808080; letter-spacing: 0.5px;">
   “Always building. Always improving.”
   </p>
 </div>
-
-<br>
-
-<br>
-
 <div align="center">
   <h2>✦ Connect ✦</h2>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://bsky.app/profile/infyra"><img src="https://img.shields.io/badge/-BLUESKY-1E1F2C?style=for-the-badge&logo=bluesky&logoColor=white" /></a>

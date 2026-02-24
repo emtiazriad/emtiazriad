@@ -1,5 +1,9 @@
 <h1 align="center">EMTIAZ AHMED</h1>
-<h3 align="center">⚡ Web Developer • 🔐 Bug Bounty Hunter • 🚀 Security Enthusiast </h3>
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Web Dev" width="32" height="32"/> Web Developer
+  <img src="https://cdn.simpleicons.org/bugcrowd" alt="Bug Bounty" width="32" height="32"/> Bug Bounty Hunter
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Security" width="32" height="32"/> Security Enthusiast
+</h3>
 
 <div align="center">
   <p style="max-width: 600px; margin: 0 auto; color: #a0a0a0;">

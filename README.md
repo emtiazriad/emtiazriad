@@ -3,15 +3,11 @@
 
 <div align="center">
   <p style="max-width: 600px; margin: 0 auto; color: #a0a0a0;">
-  I architect web applications and conduct security research to build systems that are both functional and resilient.
+    I architect web applications and conduct security research to build systems that are both functional and resilient.
   </p>
 </div>
 
-<div align="center">
-  <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
-    ✦ Practice ✦
-  </div>
-</div>
+<h3 align="center">✦ Practice ✦</h3>
 
 <div align="center">
   <table style="margin: 0 auto; border-collapse: collapse; width: auto;">
@@ -25,15 +21,11 @@
 
 <div align="center">
   <p style="font-style: italic; color: #808080; letter-spacing: 0.5px;">
-  “Always building. Always improving.”
+    “Always building. Always improving.”
   </p>
 </div>
 
-<div align="center">
-  <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
-    ✦ Connect ✦
-  </div>
-</div>
+<h3 align="center">✦ Connect ✦</h3>
 
 <p align="center">
   <a href="https://bsky.app/profile/infyra"><img src="https://img.shields.io/badge/-BLUESKY-1E1F2C?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
@@ -42,11 +34,7 @@
   <a href="mailto:mdemtiazahmed11@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-1E1F2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
-    ✦ Stack ✦
-  </div>
-</div>
+<h3 align="center">✦ Stack ✦</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
@@ -80,22 +68,15 @@
   <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square&logo=xfce&logoColor=FFFFFF" />
 </p>
 
-<div align="center">
-  <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
-    ✦ Metrics ✦
-  </div>
-</div>
+<h3 align="center">✦ Metrics ✦</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emtiazriad&theme=transparent&hide_border=true&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=808080" width="70%" />
 </div>
 
-<br>
+<h3 align="center">✦ Support ✦</h3>
 
 <div align="center">
-  <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
-    ✦ Support ✦
-  </div>
   <p style="color: #808080; font-size: 0.9rem;">If my work provides value, your support is appreciated.</p>
   <br>
   <a href="https://paypal.me/EMTIAZAHMED11"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1E1F2C" /></a>

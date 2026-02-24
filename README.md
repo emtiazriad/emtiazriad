@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <div style="font-size: 1.5em; font-weight: bold;">
+   <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
     ✦ Practice ✦
   </div>
 </div>
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <div style="font-size: 1.5em; font-weight: bold;">
+  <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
     ✦ Connect ✦
   </div>
 </div>
@@ -81,7 +81,7 @@
 </p>
 
 <div align="center">
-  <div style="font-size: 1.5em; font-weight: bold;">
+  <div style="font-size: 3em; font-weight: bold; margin: 20px 0;">
     ✦ Metrics ✦
   </div>
 </div>

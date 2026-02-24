@@ -1,5 +1,5 @@
 <h1 align="center">EMTIAZ AHMED</h1>
-  <h3>Web Development & Application Security</h3>
+  <h3 align="center">Web Development & Application Security</h3>
 
 <div align="center">
   <p style="max-width: 600px; margin: 0 auto; color: #a0a0a0;">

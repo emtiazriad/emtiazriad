@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>EMTIAZ AHMED</h1>
+<h1 align="center">EMTIAZ AHMED</h1>
   <h3>Web Development & Application Security</h3>
-</div>
 
 <div align="center">
   <p style="max-width: 600px; margin: 0 auto; color: #a0a0a0;">

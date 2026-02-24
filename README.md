@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://www.threads.com/@emtz_riad"><img src="https://img.shields.io/badge/-Threads-1E1F2C?style=for-the-badge&logo=threads&logoColor=white" /> </a>
   <a href="https://bsky.app/profile/infyra"><img src="https://img.shields.io/badge/-BLUESKY-1E1F2C?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
   <a href="https://x.com/infyra0_0"><img src="https://img.shields.io/badge/-X-1E1F2C?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://medium.com/@infyra"><img src="https://img.shields.io/badge/-MEDIUM-1E1F2C?style=for-the-badge&logo=medium&logoColor=white" /></a>

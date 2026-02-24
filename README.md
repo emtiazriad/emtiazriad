@@ -112,36 +112,10 @@
 
 <br>
 
-<br>
-
-<div align="center">
-  <h2>✦ Recognition ✦</h2>
-</div>
-
-<br>
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emtiazriad&theme=dark_lover&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
-
-<br> -->
-
-<br>
-
 <div align="center">
   <h3>✦ Support ✦</h3>
   <p style="color: #808080; font-size: 0.9rem;">If my work provides value, your support is appreciated.</p>
   <br>
   <a href="https://paypal.me/EMTIAZAHMED11"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1E1F2C" /></a>
   <a href="https://ko-fi.com/infyra"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1E1F2C" /></a>
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-  <sub style="color: #606060; letter-spacing: 0.8px;">✧ 2025 EMTIAZ AHMED ✧</sub>
 </div>

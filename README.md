@@ -1,5 +1,5 @@
 <h1 align="center">EMTIAZ AHMED</h1>
-  <h3 align="center">Web Development & Application Security</h3>
+<h3 align="center">Web Development & Application Security</h3>
 
 <div align="center">
   <p style="max-width: 600px; margin: 0 auto; color: #a0a0a0;">
@@ -8,7 +8,9 @@
 </div>
 
 <div align="center">
-  <h2>✦ Practice ✦</h2>
+  <div style="font-size: 1.5em; font-weight: bold;">
+    ✦ Practice ✦
+  </div>
 </div>
 
 <div align="center">
@@ -21,14 +23,16 @@
   </table>
 </div>
 
-
 <div align="center">
   <p style="font-style: italic; color: #808080; letter-spacing: 0.5px;">
   “Always building. Always improving.”
   </p>
 </div>
+
 <div align="center">
-  <h2>✦ Connect ✦</h2>
+  <div style="font-size: 1.5em; font-weight: bold;">
+    ✦ Connect ✦
+  </div>
 </div>
 
 <p align="center">
@@ -39,7 +43,9 @@
 </p>
 
 <div align="center">
-  <h2>✦ Stack ✦</h2>
+  <div style="font-size: 1.5em; font-weight: bold;">
+    ✦ Stack ✦
+  </div>
 </div>
 
 <p align="center">
@@ -75,9 +81,10 @@
 </p>
 
 <div align="center">
-  <h2>✦ Metrics ✦</h2>
+  <div style="font-size: 1.5em; font-weight: bold;">
+    ✦ Metrics ✦
+  </div>
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emtiazriad&theme=transparent&hide_border=true&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=808080" width="70%" />

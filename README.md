@@ -29,15 +29,6 @@
   </p>
 </div>
 
-<h3 align="center">✦ Connect ✦</h3>
-
-<p align="center">
-  <a href="https://bsky.app/profile/infyra"><img src="https://img.shields.io/badge/-BLUESKY-1E1F2C?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-  <a href="https://x.com/infyra0_0"><img src="https://img.shields.io/badge/-X-1E1F2C?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@infyra"><img src="https://img.shields.io/badge/-MEDIUM-1E1F2C?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:mdemtiazahmed11@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-1E1F2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <h3 align="center">✦ Stack ✦</h3>
 
 <p >
@@ -66,13 +57,22 @@
   <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square&logo=xfce&logoColor=FFFFFF" />
 </p>
 
-<h3 align="center">✦ Metrics ✦</h3>
+<h3 align="center">✦ Connect ✦</h3>
+
+<p align="center">
+  <a href="https://bsky.app/profile/infyra"><img src="https://img.shields.io/badge/-BLUESKY-1E1F2C?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="https://x.com/infyra0_0"><img src="https://img.shields.io/badge/-X-1E1F2C?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@infyra"><img src="https://img.shields.io/badge/-MEDIUM-1E1F2C?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:mdemtiazahmed11@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-1E1F2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<!-- <h3 align="center">✦ Metrics ✦</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emtiazriad&theme=transparent&hide_border=true&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=808080" width="70%" />
 </div>
 
-<h3 align="center">✦ Support ✦</h3>
+<h3 align="center">✦ Support ✦</h3> -->
 
 <div align="center">
   <p style="color: #808080; font-size: 0.9rem;">If my work provides value, your support is appreciated.</p>

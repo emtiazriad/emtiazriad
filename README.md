@@ -7,11 +7,11 @@
 </p>
 <h1 align="center">EMTIAZ AHMED</h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="42" align="center"/>Developer
   <img src="https://cdn.simpleicons.org/bugcrowd" width="42" align="center"/>  Bug Bounty Hunter
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" align="center"/> Security Enthusiast
-</h3>
+</h3> -->
 
 <div align="center">
   <p style="max-width: 600px; margin: 0 auto; color: #a0a0a0;">
@@ -19,7 +19,7 @@
   </p>
 </div>
 
-<h3 align="center">✦ Practice ✦</h3>
+<!-- <h3 align="center">✦ Practice ✦</h3> -->
 
 <div align="center">
   <table style="margin: 0 auto; border-collapse: collapse; width: auto;">
@@ -37,9 +37,9 @@
   </p>
 </div>
 
-<h3 align="center">✦ Stack ✦</h3>
+<!-- <h3 align="center">✦ Stack ✦</h3> -->
 
-<p >
+<!-- <p >
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/SQLmap-1A1A1A?style=flat-square&logo=sql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/CTF-Competitor-FF6F61?style=flat-square&logo=ctf&logoColor=FFFFFF" />
 
-</p>
+</p> -->
 
 <!-- <h3 align="center">✦ Connect ✦</h3> -->
 
@@ -87,12 +87,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emtiazriad&theme=transparent&hide_border=true&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=808080" width="70%" />
 </div>-->
-
-<h3 align="center">✦ Support ✦</h3> 
-
-<div align="center">
-  <p style="color: #808080; font-size: 0.9rem;">If my work provides value, your support is appreciated.</p>
-  <br>
-  <a href="https://paypal.me/EMTIAZAHMED11"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1E1F2C" /></a>
-  <a href="https://ko-fi.com/infyra"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1E1F2C" /></a>
-</div>

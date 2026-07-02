@@ -28,6 +28,11 @@
       <td align="center" width="200" style="padding: 10px;">Security &<br>Vulnerability Research</td>
       <td align="center" width="200" style="padding: 10px;">System Hardening<br>& Resilience</td>
     </tr>
+     <tr>
+      <td align="center" width="200" style="padding: 10px;">Web Application<br>Architecture</td>
+      <td align="center" width="200" style="padding: 10px;">Security &<br>Vulnerability Research</td>
+      <td align="center" width="200" style="padding: 10px;">System Hardening<br>& Resilience</td>
+    </tr>
   </table>
 </div>
 
